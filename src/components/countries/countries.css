@@ -1,0 +1,13 @@
+.country-containers{
+  margin: 20px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);;
+  gap: 2;
+  margin-left: 100px; 
+  text-align: center;
+   
+}
+.headding{
+  text-align: center;
+  font-size: 30px;
+}
